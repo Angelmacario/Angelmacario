@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">💻 Engenheira de Dados | Python | Cloud | Inovação 💜</h3>
+<h3 align="center">💻 Engenheira de Dados Jr | Python | Dados | Cloud | Inovação 💜</h3>
 
 <p align="center">
   <a href="https://github.com/Angelmacario">
@@ -23,11 +23,11 @@
 
 ### 🌸 Sobre mim
 
-- 👩‍💻 Em transição de carreira para **Engenharia de Dados**
-- 🐍 Experiência com **Python, SQL, Spark e Azure**
+- 👩‍💻 **Engenharia de Dados Jr**
+- 🐍 Experiência com **Python, SQL, PySpark e Azure**
 - ☁️ Certificada **AZ-900** e estudando **AZ-104**
 - 💡 Apaixonada por **Inovação, Cloud e IA aplicada a Dados**
-- 🎨 Conhecimentos em **Front-end e Design UX/UI**
+- 🎨 Conhecimentos em **Front-end e Back-end**
 - ✨ “Transformando dados e ideias em soluções que geram impacto.”
 
 ---
@@ -81,9 +81,9 @@
 
 ### 💬 Contato
 
-📧 **E-mail:** [angelica.parizotto@outlook.com](mailto:angelica.parizotto@outlook.com)  
-💼 **LinkedIn:** [Angélica Macario](https://www.linkedin.com/in/ang%C3%A9lica-macario-a7057670/)  
-🐙 **GitHub:** [Angelmacario](https://github.com/Angelmacario)
+📧 **E-mail:** (mailto:angelica.parizotto@outlook.com)  
+💼 **LinkedIn:** (https://www.linkedin.com/in/ang%C3%A9lica-macario-a7057670/)  
+🐙 **GitHub:** (https://github.com/Angelmacario)
 
 ---
 
