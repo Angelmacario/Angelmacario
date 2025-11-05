@@ -23,7 +23,8 @@
 
 ### 🌸 Sobre mim
 
-- 👩‍💻 **Engenharia de Dados Jr**
+- 👩‍💻 **Engenharia de Dados Jr** 
+- 👩‍💻 **Governança de Dados e IA**
 - 🐍 Experiência com **Python, SQL, PySpark e Azure**
 - ☁️ Certificada **AZ-900** e estudando **AZ-104**
 - 💡 Apaixonada por **Inovação, Cloud e IA aplicada a Dados**
