@@ -1,21 +1,19 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b388eb&height=180&section=header&text=Maria%20Angélica%20Macário&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=Engenharia%20de%20Dados%20|%20Python%20|%20Inovação%20Tech&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=180&section=header&text=Maria%20Angélica%20Macário&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=Engenharia%20de%20Dados%20|%20Python%20|%20Inovação%20Tech&descAlignY=55&descAlign=50" />
 </p>
-
----
 
 <h3 align="center">💻 Engenheira de Dados Jr | Python | Dados | Cloud | Inovação 💜</h3>
 
 <p align="center">
   <a href="https://github.com/Angelmacario">
-    <img src="https://img.shields.io/badge/GitHub-Angelmacario-0d1117?style=for-the-badge&logo=github&logoColor=c084fc">
+    <img src="https://img.shields.io/badge/GitHub-Angelmacario-0d1117?style=for-the-badge&logo=github&logoColor=8b5cf6" />
   </a>
   <a href="https://www.linkedin.com/in/ang%C3%A9lica-macario-a7057670/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maria%20Angélica-0d1117?style=for-the-badge&logo=linkedin&logoColor=b388eb">
+    <img src="https://img.shields.io/badge/LinkedIn-Maria%20Angélica-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" />
   </a>
   <a href="mailto:angelica.parizotto@outlook.com">
-    <img src="https://img.shields.io/badge/Email-angelica.parizotto@outlook.com-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=c084fc">
+    <img src="https://img.shields.io/badge/Email-angelica.parizotto@outlook.com-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=8b5cf6" />
   </a>
 </p>
 
@@ -23,12 +21,12 @@
 
 ### 🌸 Sobre mim
 
-- 👩‍💻 **Engenharia de Dados Jr**  
-- 🤖 **Governança de Dados e IA**
-- 🐍 Experiência com **Python, SQL, PySpark e Azure**
-- ☁️ Certificada **AZ-900** e estudando **AZ-104**
-- 💡 Apaixonada por **Inovação, Cloud e IA aplicada a Dados**
-- 🎨 Conhecimentos em **Front-end e Back-end**
+- 👩‍💻 **Engenheira de Dados Jr**  
+- 🧠 Foco em **Governança de Dados e IA**  
+- 🐍 Experiência com **Python, SQL, PySpark e Azure**  
+- ☁️ Certificada **AZ-900** e estudando **AZ-104**  
+- 💡 Apaixonada por **Inovação, Cloud e IA aplicada a Dados**  
+- 🎨 Conhecimentos em **Front-end e Back-end**  
 - ✨ “Transformando dados e ideias em soluções que geram impacto.”
 
 ---
@@ -37,14 +35,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Angelmacario&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=b388eb&icon_color=c084fc&text_color=ffffff&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Angelmacario&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=ffffff&hide_border=true" 
     alt="Estatísticas do GitHub"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelmacario&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=ffffff&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelmacario&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&hide_border=true" 
     alt="Linguagens mais usadas"
   />
 </p>
@@ -68,14 +66,14 @@
 ### 🧠 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=fcd34d" />
-  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=fbbf24" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=fb923c" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=b388eb" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=facc15" />
-  <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=c084fc" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=b388eb" />
-  <img src="https://img.shields.io/badge/Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=f59e0b" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffde57" />
+  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=8b5cf6" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078d4" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=8b5cf6" />
+  <img src="https://img.shields.io/badge/Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=f37626" />
 </p>
 
 ---
@@ -89,12 +87,10 @@
 ---
 
 <p align="center">
-  <i>💜 “Um dia de cada vez, um commit de cada vez.” 💜</i>
-</p>
-<p align="center">
+  <i>💜 “Um dia de cada vez, um commit de cada vez.” 💜</i><br>
   <i>💜 “Você é a soma de todos os seus esforços.” 💜</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b388eb&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=100&section=footer" />
 </p>
