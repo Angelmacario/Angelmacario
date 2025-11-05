@@ -90,7 +90,9 @@
 
 <p align="center">
   <i>💜 “Um dia de cada vez, um commit de cada vez.” 💜</i>
-  <i>💜 “Você é a soma de todos os seus esforços.” 💜</i>
+</p>
+<p align="center">
+ <i>💜 “Você é a soma de todos os seus esforços.” 💜</i>
 </p>
 
 <p align="center">
