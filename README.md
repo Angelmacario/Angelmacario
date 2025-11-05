@@ -80,14 +80,6 @@
 
 ---
 
-### 💬 Contato
-
-📧 **E-mail:** (mailto:angelica.parizotto@outlook.com)  
-💼 **LinkedIn:** (https://www.linkedin.com/in/ang%C3%A9lica-macario-a7057670/)  
-🐙 **GitHub:** (https://github.com/Angelmacario)
-
----
-
 ### 🐍 Snake Game — Contribuições no GitHub
 
 <p align="center">
