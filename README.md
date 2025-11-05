@@ -87,6 +87,14 @@
 
 ---
 
+### 🐍 Snake Game — Contribuições no GitHub
+
+<p align="center">
+  <img src="https://github.com/Angelmacario/Angelmacario/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 <p align="center">
   <i>💜 “Um dia de cada vez, um commit de cada vez.” 💜</i>
 </p>
